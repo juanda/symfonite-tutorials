@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 #
+#
 # Desarrollo de aplicaciones web con Symfony2 documentation build configuration file, created by
 # sphinx-quickstart on Sun Feb 19 11:01:28 2012.
 #
