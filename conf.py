@@ -103,10 +103,10 @@ pygments_style = 'sphinx'
 
 # The name for this set of Sphinx documents.  If None, it defaults to
 # "<project> v<release> documentation".
-html_title = 'Curso: Desarrollo de aplicaciones con Symfony2'
+html_title = 'Tutoriales symfonite'
 
 # A shorter title for the navigation bar.  Default is the same as html_title.
-html_short_title = 'Curso Sf2'
+html_short_title = 'Tutoriales symfonite'
 
 # The name of an image file (relative to this directory) to place at the top
 # of the sidebar.
@@ -185,7 +185,7 @@ latex_elements = {
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title, author, documentclass [howto/manual]).
 latex_documents = [
-  ('index', 'Curso: DesarrollodeaplicacioneswebconSymfony2.tex', u'Desarrollo de aplicaciones web con Symfony2',
+  ('index', 'Tutoriales symfonite.tex', u'Tutoriales symfonite',
    u'Juan David Rodríguez García', 'manual'),
 ]
 
